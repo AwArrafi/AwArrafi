@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Hello my name is **Awang Mohammad Ziadhasya Rizqaarrafi**, i am an undergraduate student of UPN "Veteran" Jawa Timur.<br> 
+
+I am currently studying on being a **Web Developer**.<br>
+If you are interested, let's connect with my [Linkedin](https://www.linkedin.com/in/awang-arrafi-a30820217). 
+
 <!--
 **AwArrafi/AwArrafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
